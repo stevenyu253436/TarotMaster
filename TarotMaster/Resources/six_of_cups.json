@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯6",
+    "element": "基本能量水",
+    "keywords": {
+        "導向": "6、分享、回憶、兒時的回憶、幸福",
+        "關鍵": "情感上的穩定、回憶過去、兒時的夢想",
+        "方位": "北方、懷舊、童年、下午",
+        "屬性": "兒時的回憶、懷念過去、重拾舊情",
+        "方式": "分享、重溫舊夢、懷念童年時的單純與美好"
+    },
+    "description": {
+        "正位": "象徵懷舊與重新接觸舊日的情感，代表著分享與回憶過去的美好時光，回憶兒時的純真與快樂。",
+        "逆位": "提醒不要過於沉迷於過去，應放眼未來，並將重心重新放在當下的生活上。"
+    }
+}
