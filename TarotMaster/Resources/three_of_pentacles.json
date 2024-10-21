@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣3",
+    "element": "基本能量土",
+    "keywords": {
+        "數字": "3 - 創造的火花、三個人的支持、持續的成長、專業",
+        "關鍵": "團隊合作、計劃、公共建設",
+        "方位": "南方",
+        "屬性": "合夥發展、合作交流、力量互補"
+    },
+    "description": {
+        "正位": "表示工作中的團隊合作和協作，專業性和技術能力得到了認可。這張牌象徵著人際互動和共同目標的努力，是團隊合作的成功。",
+        "逆位": "可能意味著缺乏協作、溝通困難或是無法接受建議，導致計劃的推進受到阻礙。"
+    }
+}
