@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "力量",
+    "number": 8,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "勇氣、力量、耐心、控制、同情",
+        "逆位": "脆弱、懷疑、自我懷疑、缺乏自律"
+    },
+    "description": {
+        "正位": "力量牌象徵內在的勇氣和力量，它強調精神上的力量、情緒的控制和克服恐懼的能力。這張牌提醒你，你有能力以內在的毅力和耐心克服挑戰。力量牌也象徵著同情心和溫和的力量，而非強迫性或物理性的力量，提醒你要以愛心和理解來面對困難。",
+        "逆位": "逆位的力量可能表示自我懷疑、缺乏內在力量或感到軟弱。你可能面臨著難以控制情緒的挑戰或無法克服內心的恐懼。這張牌提醒你要重建信心，重新尋找內在的力量，克服不安全感和自我懷疑。你需要承認自己的弱點，但同時要以勇氣和決心面對它們。"
+    }
+}
