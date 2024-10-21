@@ -15,6 +15,84 @@
 		D0755FF32CC6071200CAB1D8 /* TarotMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */; };
 		D0755FF52CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */; };
 		D07560032CC611E400CAB1D8 /* TarotCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07560022CC611E400CAB1D8 /* TarotCard.swift */; };
+		D07560052CC6178300CAB1D8 /* 0_the_fool.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560042CC6178300CAB1D8 /* 0_the_fool.json */; };
+		D07560072CC617C500CAB1D8 /* 1_the_magician.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560062CC617C500CAB1D8 /* 1_the_magician.json */; };
+		D07560092CC617E200CAB1D8 /* 2_the_high_priestess.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560082CC617E200CAB1D8 /* 2_the_high_priestess.json */; };
+		D075600B2CC61C8A00CAB1D8 /* 3_the_empress.json in Resources */ = {isa = PBXBuildFile; fileRef = D075600A2CC61C8A00CAB1D8 /* 3_the_empress.json */; };
+		D075600D2CC61C9A00CAB1D8 /* 4_the_emperor.json in Resources */ = {isa = PBXBuildFile; fileRef = D075600C2CC61C9A00CAB1D8 /* 4_the_emperor.json */; };
+		D075600F2CC61CAC00CAB1D8 /* 5_the_hierophant.json in Resources */ = {isa = PBXBuildFile; fileRef = D075600E2CC61CAC00CAB1D8 /* 5_the_hierophant.json */; };
+		D07560112CC61CBD00CAB1D8 /* 6_the_lovers.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560102CC61CBD00CAB1D8 /* 6_the_lovers.json */; };
+		D07560132CC61CCC00CAB1D8 /* 7_the_chariot.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560122CC61CCC00CAB1D8 /* 7_the_chariot.json */; };
+		D07560152CC61CDD00CAB1D8 /* 8_strength.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560142CC61CDD00CAB1D8 /* 8_strength.json */; };
+		D07560172CC61CEC00CAB1D8 /* 9_the_hermit.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560162CC61CEC00CAB1D8 /* 9_the_hermit.json */; };
+		D07560192CC61D0500CAB1D8 /* 10_wheel_of_fortune.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560182CC61D0500CAB1D8 /* 10_wheel_of_fortune.json */; };
+		D075601B2CC61D1C00CAB1D8 /* 11_justice.json in Resources */ = {isa = PBXBuildFile; fileRef = D075601A2CC61D1C00CAB1D8 /* 11_justice.json */; };
+		D075601D2CC61D3000CAB1D8 /* 12_the_hanged_man.json in Resources */ = {isa = PBXBuildFile; fileRef = D075601C2CC61D3000CAB1D8 /* 12_the_hanged_man.json */; };
+		D075601F2CC61D3F00CAB1D8 /* 13_death.json in Resources */ = {isa = PBXBuildFile; fileRef = D075601E2CC61D3F00CAB1D8 /* 13_death.json */; };
+		D07560212CC61D4E00CAB1D8 /* 14_temperance.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560202CC61D4E00CAB1D8 /* 14_temperance.json */; };
+		D07560232CC61D5C00CAB1D8 /* 15_the_devil.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560222CC61D5C00CAB1D8 /* 15_the_devil.json */; };
+		D07560252CC61D6900CAB1D8 /* 16_the_tower.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560242CC61D6900CAB1D8 /* 16_the_tower.json */; };
+		D07560272CC61D7800CAB1D8 /* 17_the_star.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560262CC61D7800CAB1D8 /* 17_the_star.json */; };
+		D07560292CC61D8800CAB1D8 /* 18_the_moon.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560282CC61D8800CAB1D8 /* 18_the_moon.json */; };
+		D075602B2CC61D9500CAB1D8 /* 19_the_sun.json in Resources */ = {isa = PBXBuildFile; fileRef = D075602A2CC61D9500CAB1D8 /* 19_the_sun.json */; };
+		D075602D2CC61DA400CAB1D8 /* 20_judgement.json in Resources */ = {isa = PBXBuildFile; fileRef = D075602C2CC61DA400CAB1D8 /* 20_judgement.json */; };
+		D075602F2CC61DB200CAB1D8 /* 21_the_world.json in Resources */ = {isa = PBXBuildFile; fileRef = D075602E2CC61DB200CAB1D8 /* 21_the_world.json */; };
+		D07560312CC61DC200CAB1D8 /* ace_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560302CC61DC200CAB1D8 /* ace_of_cups.json */; };
+		D07560332CC61DD200CAB1D8 /* two_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560322CC61DD200CAB1D8 /* two_of_cups.json */; };
+		D07560352CC61DDD00CAB1D8 /* three_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560342CC61DDD00CAB1D8 /* three_of_cups.json */; };
+		D07560372CC61DEB00CAB1D8 /* four_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560362CC61DEB00CAB1D8 /* four_of_cups.json */; };
+		D07560392CC61DF800CAB1D8 /* five_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560382CC61DF800CAB1D8 /* five_of_cups.json */; };
+		D075603B2CC61E0A00CAB1D8 /* six_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D075603A2CC61E0A00CAB1D8 /* six_of_cups.json */; };
+		D075603D2CC61E1700CAB1D8 /* seven_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D075603C2CC61E1700CAB1D8 /* seven_of_cups.json */; };
+		D075603F2CC61E2600CAB1D8 /* eight_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D075603E2CC61E2600CAB1D8 /* eight_of_cups.json */; };
+		D07560412CC61E3200CAB1D8 /* nine_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560402CC61E3200CAB1D8 /* nine_of_cups.json */; };
+		D07560432CC61E4C00CAB1D8 /* ten_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560422CC61E4C00CAB1D8 /* ten_of_cups.json */; };
+		D07560452CC61E5800CAB1D8 /* page_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560442CC61E5800CAB1D8 /* page_of_cups.json */; };
+		D07560472CC61E6500CAB1D8 /* knight_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560462CC61E6500CAB1D8 /* knight_of_cups.json */; };
+		D07560492CC61E7300CAB1D8 /* queen_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560482CC61E7300CAB1D8 /* queen_of_cups.json */; };
+		D075604B2CC61E8200CAB1D8 /* king_of_cups.json in Resources */ = {isa = PBXBuildFile; fileRef = D075604A2CC61E8200CAB1D8 /* king_of_cups.json */; };
+		D075604D2CC61E9300CAB1D8 /* ace_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D075604C2CC61E9300CAB1D8 /* ace_of_swords.json */; };
+		D075604F2CC61E9E00CAB1D8 /* two_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D075604E2CC61E9E00CAB1D8 /* two_of_swords.json */; };
+		D07560512CC61EA900CAB1D8 /* three_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560502CC61EA900CAB1D8 /* three_of_swords.json */; };
+		D07560532CC61EB600CAB1D8 /* four_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560522CC61EB600CAB1D8 /* four_of_swords.json */; };
+		D07560552CC61EC100CAB1D8 /* five_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560542CC61EC100CAB1D8 /* five_of_swords.json */; };
+		D07560572CC61ECC00CAB1D8 /* six_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560562CC61ECC00CAB1D8 /* six_of_swords.json */; };
+		D07560592CC61ED600CAB1D8 /* seven_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560582CC61ED600CAB1D8 /* seven_of_swords.json */; };
+		D075605B2CC61EE000CAB1D8 /* eight_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D075605A2CC61EE000CAB1D8 /* eight_of_swords.json */; };
+		D075605D2CC61EEC00CAB1D8 /* nine_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D075605C2CC61EEC00CAB1D8 /* nine_of_swords.json */; };
+		D075605F2CC61EFB00CAB1D8 /* ten_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D075605E2CC61EFB00CAB1D8 /* ten_of_swords.json */; };
+		D07560612CC61F0700CAB1D8 /* page_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560602CC61F0700CAB1D8 /* page_of_swords.json */; };
+		D07560632CC61F1200CAB1D8 /* knight_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560622CC61F1200CAB1D8 /* knight_of_swords.json */; };
+		D07560652CC61F1F00CAB1D8 /* queen_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560642CC61F1F00CAB1D8 /* queen_of_swords.json */; };
+		D07560672CC61F2B00CAB1D8 /* king_of_swords.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560662CC61F2B00CAB1D8 /* king_of_swords.json */; };
+		D07560692CC61F3900CAB1D8 /* ace_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560682CC61F3900CAB1D8 /* ace_of_wands.json */; };
+		D075606B2CC61F4400CAB1D8 /* two_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075606A2CC61F4400CAB1D8 /* two_of_wands.json */; };
+		D075606D2CC61F5100CAB1D8 /* three_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075606C2CC61F5100CAB1D8 /* three_of_wands.json */; };
+		D075606F2CC61F5D00CAB1D8 /* four_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075606E2CC61F5D00CAB1D8 /* four_of_wands.json */; };
+		D07560712CC61F6E00CAB1D8 /* five_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560702CC61F6E00CAB1D8 /* five_of_wands.json */; };
+		D07560732CC61F7A00CAB1D8 /* six_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560722CC61F7A00CAB1D8 /* six_of_wands.json */; };
+		D07560752CC61F8600CAB1D8 /* seven_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560742CC61F8600CAB1D8 /* seven_of_wands.json */; };
+		D07560772CC61F9100CAB1D8 /* eight_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560762CC61F9100CAB1D8 /* eight_of_wands.json */; };
+		D07560792CC61F9F00CAB1D8 /* nine_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560782CC61F9F00CAB1D8 /* nine_of_wands.json */; };
+		D075607B2CC61FAA00CAB1D8 /* ten_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075607A2CC61FAA00CAB1D8 /* ten_of_wands.json */; };
+		D075607D2CC61FB700CAB1D8 /* page_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075607C2CC61FB700CAB1D8 /* page_of_wands.json */; };
+		D075607F2CC61FC000CAB1D8 /* knight_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D075607E2CC61FC000CAB1D8 /* knight_of_wands.json */; };
+		D07560812CC61FCB00CAB1D8 /* queen_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560802CC61FCB00CAB1D8 /* queen_of_wands.json */; };
+		D07560832CC61FD500CAB1D8 /* king_of_wands.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560822CC61FD500CAB1D8 /* king_of_wands.json */; };
+		D07560852CC6207600CAB1D8 /* ace_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560842CC6207600CAB1D8 /* ace_of_pentacles.json */; };
+		D07560872CC6208200CAB1D8 /* two_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560862CC6208200CAB1D8 /* two_of_pentacles.json */; };
+		D07560892CC6209500CAB1D8 /* three_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560882CC6209500CAB1D8 /* three_of_pentacles.json */; };
+		D075608B2CC620A000CAB1D8 /* four_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075608A2CC620A000CAB1D8 /* four_of_pentacles.json */; };
+		D075608D2CC620AC00CAB1D8 /* five_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075608C2CC620AC00CAB1D8 /* five_of_pentacles.json */; };
+		D075608F2CC620B800CAB1D8 /* six_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075608E2CC620B800CAB1D8 /* six_of_pentacles.json */; };
+		D07560912CC620C300CAB1D8 /* seven_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560902CC620C300CAB1D8 /* seven_of_pentacles.json */; };
+		D07560932CC620CD00CAB1D8 /* eight_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560922CC620CD00CAB1D8 /* eight_of_pentacles.json */; };
+		D07560952CC620DB00CAB1D8 /* nine_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560942CC620DB00CAB1D8 /* nine_of_pentacles.json */; };
+		D07560972CC620E800CAB1D8 /* ten_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560962CC620E800CAB1D8 /* ten_of_pentacles.json */; };
+		D07560992CC620F300CAB1D8 /* page_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D07560982CC620F300CAB1D8 /* page_of_pentacles.json */; };
+		D075609B2CC620FD00CAB1D8 /* knight_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075609A2CC620FD00CAB1D8 /* knight_of_pentacles.json */; };
+		D075609D2CC6210900CAB1D8 /* queen_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075609C2CC6210900CAB1D8 /* queen_of_pentacles.json */; };
+		D075609F2CC6211300CAB1D8 /* king_of_pentacles.json in Resources */ = {isa = PBXBuildFile; fileRef = D075609E2CC6211300CAB1D8 /* king_of_pentacles.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +125,84 @@
 		D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITests.swift; sourceTree = "<group>"; };
 		D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D07560022CC611E400CAB1D8 /* TarotCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotCard.swift; sourceTree = "<group>"; };
+		D07560042CC6178300CAB1D8 /* 0_the_fool.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 0_the_fool.json; sourceTree = "<group>"; };
+		D07560062CC617C500CAB1D8 /* 1_the_magician.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 1_the_magician.json; sourceTree = "<group>"; };
+		D07560082CC617E200CAB1D8 /* 2_the_high_priestess.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 2_the_high_priestess.json; sourceTree = "<group>"; };
+		D075600A2CC61C8A00CAB1D8 /* 3_the_empress.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 3_the_empress.json; sourceTree = "<group>"; };
+		D075600C2CC61C9A00CAB1D8 /* 4_the_emperor.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 4_the_emperor.json; sourceTree = "<group>"; };
+		D075600E2CC61CAC00CAB1D8 /* 5_the_hierophant.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 5_the_hierophant.json; sourceTree = "<group>"; };
+		D07560102CC61CBD00CAB1D8 /* 6_the_lovers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 6_the_lovers.json; sourceTree = "<group>"; };
+		D07560122CC61CCC00CAB1D8 /* 7_the_chariot.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 7_the_chariot.json; sourceTree = "<group>"; };
+		D07560142CC61CDD00CAB1D8 /* 8_strength.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 8_strength.json; sourceTree = "<group>"; };
+		D07560162CC61CEC00CAB1D8 /* 9_the_hermit.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 9_the_hermit.json; sourceTree = "<group>"; };
+		D07560182CC61D0500CAB1D8 /* 10_wheel_of_fortune.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 10_wheel_of_fortune.json; sourceTree = "<group>"; };
+		D075601A2CC61D1C00CAB1D8 /* 11_justice.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 11_justice.json; sourceTree = "<group>"; };
+		D075601C2CC61D3000CAB1D8 /* 12_the_hanged_man.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 12_the_hanged_man.json; sourceTree = "<group>"; };
+		D075601E2CC61D3F00CAB1D8 /* 13_death.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 13_death.json; sourceTree = "<group>"; };
+		D07560202CC61D4E00CAB1D8 /* 14_temperance.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 14_temperance.json; sourceTree = "<group>"; };
+		D07560222CC61D5C00CAB1D8 /* 15_the_devil.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 15_the_devil.json; sourceTree = "<group>"; };
+		D07560242CC61D6900CAB1D8 /* 16_the_tower.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 16_the_tower.json; sourceTree = "<group>"; };
+		D07560262CC61D7800CAB1D8 /* 17_the_star.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 17_the_star.json; sourceTree = "<group>"; };
+		D07560282CC61D8800CAB1D8 /* 18_the_moon.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 18_the_moon.json; sourceTree = "<group>"; };
+		D075602A2CC61D9500CAB1D8 /* 19_the_sun.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 19_the_sun.json; sourceTree = "<group>"; };
+		D075602C2CC61DA400CAB1D8 /* 20_judgement.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 20_judgement.json; sourceTree = "<group>"; };
+		D075602E2CC61DB200CAB1D8 /* 21_the_world.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = 21_the_world.json; sourceTree = "<group>"; };
+		D07560302CC61DC200CAB1D8 /* ace_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ace_of_cups.json; sourceTree = "<group>"; };
+		D07560322CC61DD200CAB1D8 /* two_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = two_of_cups.json; sourceTree = "<group>"; };
+		D07560342CC61DDD00CAB1D8 /* three_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = three_of_cups.json; sourceTree = "<group>"; };
+		D07560362CC61DEB00CAB1D8 /* four_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = four_of_cups.json; sourceTree = "<group>"; };
+		D07560382CC61DF800CAB1D8 /* five_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = five_of_cups.json; sourceTree = "<group>"; };
+		D075603A2CC61E0A00CAB1D8 /* six_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = six_of_cups.json; sourceTree = "<group>"; };
+		D075603C2CC61E1700CAB1D8 /* seven_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seven_of_cups.json; sourceTree = "<group>"; };
+		D075603E2CC61E2600CAB1D8 /* eight_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = eight_of_cups.json; sourceTree = "<group>"; };
+		D07560402CC61E3200CAB1D8 /* nine_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = nine_of_cups.json; sourceTree = "<group>"; };
+		D07560422CC61E4C00CAB1D8 /* ten_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ten_of_cups.json; sourceTree = "<group>"; };
+		D07560442CC61E5800CAB1D8 /* page_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = page_of_cups.json; sourceTree = "<group>"; };
+		D07560462CC61E6500CAB1D8 /* knight_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = knight_of_cups.json; sourceTree = "<group>"; };
+		D07560482CC61E7300CAB1D8 /* queen_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = queen_of_cups.json; sourceTree = "<group>"; };
+		D075604A2CC61E8200CAB1D8 /* king_of_cups.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = king_of_cups.json; sourceTree = "<group>"; };
+		D075604C2CC61E9300CAB1D8 /* ace_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ace_of_swords.json; sourceTree = "<group>"; };
+		D075604E2CC61E9E00CAB1D8 /* two_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = two_of_swords.json; sourceTree = "<group>"; };
+		D07560502CC61EA900CAB1D8 /* three_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = three_of_swords.json; sourceTree = "<group>"; };
+		D07560522CC61EB600CAB1D8 /* four_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = four_of_swords.json; sourceTree = "<group>"; };
+		D07560542CC61EC100CAB1D8 /* five_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = five_of_swords.json; sourceTree = "<group>"; };
+		D07560562CC61ECC00CAB1D8 /* six_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = six_of_swords.json; sourceTree = "<group>"; };
+		D07560582CC61ED600CAB1D8 /* seven_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seven_of_swords.json; sourceTree = "<group>"; };
+		D075605A2CC61EE000CAB1D8 /* eight_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = eight_of_swords.json; sourceTree = "<group>"; };
+		D075605C2CC61EEC00CAB1D8 /* nine_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = nine_of_swords.json; sourceTree = "<group>"; };
+		D075605E2CC61EFB00CAB1D8 /* ten_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ten_of_swords.json; sourceTree = "<group>"; };
+		D07560602CC61F0700CAB1D8 /* page_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = page_of_swords.json; sourceTree = "<group>"; };
+		D07560622CC61F1200CAB1D8 /* knight_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = knight_of_swords.json; sourceTree = "<group>"; };
+		D07560642CC61F1F00CAB1D8 /* queen_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = queen_of_swords.json; sourceTree = "<group>"; };
+		D07560662CC61F2B00CAB1D8 /* king_of_swords.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = king_of_swords.json; sourceTree = "<group>"; };
+		D07560682CC61F3900CAB1D8 /* ace_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ace_of_wands.json; sourceTree = "<group>"; };
+		D075606A2CC61F4400CAB1D8 /* two_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = two_of_wands.json; sourceTree = "<group>"; };
+		D075606C2CC61F5100CAB1D8 /* three_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = three_of_wands.json; sourceTree = "<group>"; };
+		D075606E2CC61F5D00CAB1D8 /* four_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = four_of_wands.json; sourceTree = "<group>"; };
+		D07560702CC61F6E00CAB1D8 /* five_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = five_of_wands.json; sourceTree = "<group>"; };
+		D07560722CC61F7A00CAB1D8 /* six_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = six_of_wands.json; sourceTree = "<group>"; };
+		D07560742CC61F8600CAB1D8 /* seven_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seven_of_wands.json; sourceTree = "<group>"; };
+		D07560762CC61F9100CAB1D8 /* eight_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = eight_of_wands.json; sourceTree = "<group>"; };
+		D07560782CC61F9F00CAB1D8 /* nine_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = nine_of_wands.json; sourceTree = "<group>"; };
+		D075607A2CC61FAA00CAB1D8 /* ten_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ten_of_wands.json; sourceTree = "<group>"; };
+		D075607C2CC61FB700CAB1D8 /* page_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = page_of_wands.json; sourceTree = "<group>"; };
+		D075607E2CC61FC000CAB1D8 /* knight_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = knight_of_wands.json; sourceTree = "<group>"; };
+		D07560802CC61FCB00CAB1D8 /* queen_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = queen_of_wands.json; sourceTree = "<group>"; };
+		D07560822CC61FD500CAB1D8 /* king_of_wands.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = king_of_wands.json; sourceTree = "<group>"; };
+		D07560842CC6207600CAB1D8 /* ace_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ace_of_pentacles.json; sourceTree = "<group>"; };
+		D07560862CC6208200CAB1D8 /* two_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = two_of_pentacles.json; sourceTree = "<group>"; };
+		D07560882CC6209500CAB1D8 /* three_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = three_of_pentacles.json; sourceTree = "<group>"; };
+		D075608A2CC620A000CAB1D8 /* four_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = four_of_pentacles.json; sourceTree = "<group>"; };
+		D075608C2CC620AC00CAB1D8 /* five_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = five_of_pentacles.json; sourceTree = "<group>"; };
+		D075608E2CC620B800CAB1D8 /* six_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = six_of_pentacles.json; sourceTree = "<group>"; };
+		D07560902CC620C300CAB1D8 /* seven_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = seven_of_pentacles.json; sourceTree = "<group>"; };
+		D07560922CC620CD00CAB1D8 /* eight_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = eight_of_pentacles.json; sourceTree = "<group>"; };
+		D07560942CC620DB00CAB1D8 /* nine_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = nine_of_pentacles.json; sourceTree = "<group>"; };
+		D07560962CC620E800CAB1D8 /* ten_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = ten_of_pentacles.json; sourceTree = "<group>"; };
+		D07560982CC620F300CAB1D8 /* page_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = page_of_pentacles.json; sourceTree = "<group>"; };
+		D075609A2CC620FD00CAB1D8 /* knight_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = knight_of_pentacles.json; sourceTree = "<group>"; };
+		D075609C2CC6210900CAB1D8 /* queen_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = queen_of_pentacles.json; sourceTree = "<group>"; };
+		D075609E2CC6211300CAB1D8 /* king_of_pentacles.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = king_of_pentacles.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +292,84 @@
 		D07560012CC6094E00CAB1D8 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				D07560042CC6178300CAB1D8 /* 0_the_fool.json */,
+				D07560062CC617C500CAB1D8 /* 1_the_magician.json */,
+				D07560082CC617E200CAB1D8 /* 2_the_high_priestess.json */,
+				D075600A2CC61C8A00CAB1D8 /* 3_the_empress.json */,
+				D075600C2CC61C9A00CAB1D8 /* 4_the_emperor.json */,
+				D075600E2CC61CAC00CAB1D8 /* 5_the_hierophant.json */,
+				D07560102CC61CBD00CAB1D8 /* 6_the_lovers.json */,
+				D07560122CC61CCC00CAB1D8 /* 7_the_chariot.json */,
+				D07560142CC61CDD00CAB1D8 /* 8_strength.json */,
+				D07560162CC61CEC00CAB1D8 /* 9_the_hermit.json */,
+				D07560182CC61D0500CAB1D8 /* 10_wheel_of_fortune.json */,
+				D075601A2CC61D1C00CAB1D8 /* 11_justice.json */,
+				D075601C2CC61D3000CAB1D8 /* 12_the_hanged_man.json */,
+				D075601E2CC61D3F00CAB1D8 /* 13_death.json */,
+				D07560202CC61D4E00CAB1D8 /* 14_temperance.json */,
+				D07560222CC61D5C00CAB1D8 /* 15_the_devil.json */,
+				D07560242CC61D6900CAB1D8 /* 16_the_tower.json */,
+				D07560262CC61D7800CAB1D8 /* 17_the_star.json */,
+				D07560282CC61D8800CAB1D8 /* 18_the_moon.json */,
+				D075602A2CC61D9500CAB1D8 /* 19_the_sun.json */,
+				D075602C2CC61DA400CAB1D8 /* 20_judgement.json */,
+				D075602E2CC61DB200CAB1D8 /* 21_the_world.json */,
+				D07560302CC61DC200CAB1D8 /* ace_of_cups.json */,
+				D07560322CC61DD200CAB1D8 /* two_of_cups.json */,
+				D07560342CC61DDD00CAB1D8 /* three_of_cups.json */,
+				D07560362CC61DEB00CAB1D8 /* four_of_cups.json */,
+				D07560382CC61DF800CAB1D8 /* five_of_cups.json */,
+				D075603A2CC61E0A00CAB1D8 /* six_of_cups.json */,
+				D075603C2CC61E1700CAB1D8 /* seven_of_cups.json */,
+				D075603E2CC61E2600CAB1D8 /* eight_of_cups.json */,
+				D07560402CC61E3200CAB1D8 /* nine_of_cups.json */,
+				D07560422CC61E4C00CAB1D8 /* ten_of_cups.json */,
+				D07560442CC61E5800CAB1D8 /* page_of_cups.json */,
+				D07560462CC61E6500CAB1D8 /* knight_of_cups.json */,
+				D07560482CC61E7300CAB1D8 /* queen_of_cups.json */,
+				D075604A2CC61E8200CAB1D8 /* king_of_cups.json */,
+				D075604C2CC61E9300CAB1D8 /* ace_of_swords.json */,
+				D075604E2CC61E9E00CAB1D8 /* two_of_swords.json */,
+				D07560502CC61EA900CAB1D8 /* three_of_swords.json */,
+				D07560522CC61EB600CAB1D8 /* four_of_swords.json */,
+				D07560542CC61EC100CAB1D8 /* five_of_swords.json */,
+				D07560562CC61ECC00CAB1D8 /* six_of_swords.json */,
+				D07560582CC61ED600CAB1D8 /* seven_of_swords.json */,
+				D075605A2CC61EE000CAB1D8 /* eight_of_swords.json */,
+				D075605C2CC61EEC00CAB1D8 /* nine_of_swords.json */,
+				D075605E2CC61EFB00CAB1D8 /* ten_of_swords.json */,
+				D07560602CC61F0700CAB1D8 /* page_of_swords.json */,
+				D07560622CC61F1200CAB1D8 /* knight_of_swords.json */,
+				D07560642CC61F1F00CAB1D8 /* queen_of_swords.json */,
+				D07560662CC61F2B00CAB1D8 /* king_of_swords.json */,
+				D07560682CC61F3900CAB1D8 /* ace_of_wands.json */,
+				D075606A2CC61F4400CAB1D8 /* two_of_wands.json */,
+				D075606C2CC61F5100CAB1D8 /* three_of_wands.json */,
+				D075606E2CC61F5D00CAB1D8 /* four_of_wands.json */,
+				D07560702CC61F6E00CAB1D8 /* five_of_wands.json */,
+				D07560722CC61F7A00CAB1D8 /* six_of_wands.json */,
+				D07560742CC61F8600CAB1D8 /* seven_of_wands.json */,
+				D07560762CC61F9100CAB1D8 /* eight_of_wands.json */,
+				D07560782CC61F9F00CAB1D8 /* nine_of_wands.json */,
+				D075607A2CC61FAA00CAB1D8 /* ten_of_wands.json */,
+				D075607C2CC61FB700CAB1D8 /* page_of_wands.json */,
+				D075607E2CC61FC000CAB1D8 /* knight_of_wands.json */,
+				D07560802CC61FCB00CAB1D8 /* queen_of_wands.json */,
+				D07560822CC61FD500CAB1D8 /* king_of_wands.json */,
+				D07560842CC6207600CAB1D8 /* ace_of_pentacles.json */,
+				D07560862CC6208200CAB1D8 /* two_of_pentacles.json */,
+				D07560882CC6209500CAB1D8 /* three_of_pentacles.json */,
+				D075608A2CC620A000CAB1D8 /* four_of_pentacles.json */,
+				D075608C2CC620AC00CAB1D8 /* five_of_pentacles.json */,
+				D075608E2CC620B800CAB1D8 /* six_of_pentacles.json */,
+				D07560902CC620C300CAB1D8 /* seven_of_pentacles.json */,
+				D07560922CC620CD00CAB1D8 /* eight_of_pentacles.json */,
+				D07560942CC620DB00CAB1D8 /* nine_of_pentacles.json */,
+				D07560962CC620E800CAB1D8 /* ten_of_pentacles.json */,
+				D07560982CC620F300CAB1D8 /* page_of_pentacles.json */,
+				D075609A2CC620FD00CAB1D8 /* knight_of_pentacles.json */,
+				D075609C2CC6210900CAB1D8 /* queen_of_pentacles.json */,
+				D075609E2CC6211300CAB1D8 /* king_of_pentacles.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -244,8 +478,86 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D07560892CC6209500CAB1D8 /* three_of_pentacles.json in Resources */,
+				D07560092CC617E200CAB1D8 /* 2_the_high_priestess.json in Resources */,
+				D075604F2CC61E9E00CAB1D8 /* two_of_swords.json in Resources */,
+				D07560272CC61D7800CAB1D8 /* 17_the_star.json in Resources */,
+				D07560652CC61F1F00CAB1D8 /* queen_of_swords.json in Resources */,
+				D075602D2CC61DA400CAB1D8 /* 20_judgement.json in Resources */,
+				D07560532CC61EB600CAB1D8 /* four_of_swords.json in Resources */,
+				D07560812CC61FCB00CAB1D8 /* queen_of_wands.json in Resources */,
+				D075606F2CC61F5D00CAB1D8 /* four_of_wands.json in Resources */,
+				D075600B2CC61C8A00CAB1D8 /* 3_the_empress.json in Resources */,
+				D07560772CC61F9100CAB1D8 /* eight_of_wands.json in Resources */,
+				D07560712CC61F6E00CAB1D8 /* five_of_wands.json in Resources */,
+				D07560732CC61F7A00CAB1D8 /* six_of_wands.json in Resources */,
+				D075605F2CC61EFB00CAB1D8 /* ten_of_swords.json in Resources */,
+				D075605B2CC61EE000CAB1D8 /* eight_of_swords.json in Resources */,
+				D07560232CC61D5C00CAB1D8 /* 15_the_devil.json in Resources */,
+				D07560172CC61CEC00CAB1D8 /* 9_the_hermit.json in Resources */,
+				D07560692CC61F3900CAB1D8 /* ace_of_wands.json in Resources */,
+				D075609D2CC6210900CAB1D8 /* queen_of_pentacles.json in Resources */,
+				D07560512CC61EA900CAB1D8 /* three_of_swords.json in Resources */,
+				D075608F2CC620B800CAB1D8 /* six_of_pentacles.json in Resources */,
+				D07560612CC61F0700CAB1D8 /* page_of_swords.json in Resources */,
+				D07560112CC61CBD00CAB1D8 /* 6_the_lovers.json in Resources */,
+				D07560952CC620DB00CAB1D8 /* nine_of_pentacles.json in Resources */,
+				D07560752CC61F8600CAB1D8 /* seven_of_wands.json in Resources */,
+				D075609F2CC6211300CAB1D8 /* king_of_pentacles.json in Resources */,
+				D07560152CC61CDD00CAB1D8 /* 8_strength.json in Resources */,
+				D07560292CC61D8800CAB1D8 /* 18_the_moon.json in Resources */,
+				D07560852CC6207600CAB1D8 /* ace_of_pentacles.json in Resources */,
+				D07560312CC61DC200CAB1D8 /* ace_of_cups.json in Resources */,
+				D07560992CC620F300CAB1D8 /* page_of_pentacles.json in Resources */,
+				D07560552CC61EC100CAB1D8 /* five_of_swords.json in Resources */,
+				D07560332CC61DD200CAB1D8 /* two_of_cups.json in Resources */,
+				D075600D2CC61C9A00CAB1D8 /* 4_the_emperor.json in Resources */,
+				D075608D2CC620AC00CAB1D8 /* five_of_pentacles.json in Resources */,
+				D07560452CC61E5800CAB1D8 /* page_of_cups.json in Resources */,
+				D075600F2CC61CAC00CAB1D8 /* 5_the_hierophant.json in Resources */,
+				D075604B2CC61E8200CAB1D8 /* king_of_cups.json in Resources */,
+				D07560912CC620C300CAB1D8 /* seven_of_pentacles.json in Resources */,
+				D075609B2CC620FD00CAB1D8 /* knight_of_pentacles.json in Resources */,
+				D07560192CC61D0500CAB1D8 /* 10_wheel_of_fortune.json in Resources */,
+				D07560212CC61D4E00CAB1D8 /* 14_temperance.json in Resources */,
+				D075605D2CC61EEC00CAB1D8 /* nine_of_swords.json in Resources */,
+				D07560792CC61F9F00CAB1D8 /* nine_of_wands.json in Resources */,
+				D075601D2CC61D3000CAB1D8 /* 12_the_hanged_man.json in Resources */,
+				D07560932CC620CD00CAB1D8 /* eight_of_pentacles.json in Resources */,
+				D07560492CC61E7300CAB1D8 /* queen_of_cups.json in Resources */,
+				D075603B2CC61E0A00CAB1D8 /* six_of_cups.json in Resources */,
+				D075607B2CC61FAA00CAB1D8 /* ten_of_wands.json in Resources */,
+				D07560352CC61DDD00CAB1D8 /* three_of_cups.json in Resources */,
+				D07560072CC617C500CAB1D8 /* 1_the_magician.json in Resources */,
+				D07560872CC6208200CAB1D8 /* two_of_pentacles.json in Resources */,
+				D07560432CC61E4C00CAB1D8 /* ten_of_cups.json in Resources */,
+				D075607D2CC61FB700CAB1D8 /* page_of_wands.json in Resources */,
+				D07560392CC61DF800CAB1D8 /* five_of_cups.json in Resources */,
+				D075602B2CC61D9500CAB1D8 /* 19_the_sun.json in Resources */,
+				D075601B2CC61D1C00CAB1D8 /* 11_justice.json in Resources */,
+				D07560132CC61CCC00CAB1D8 /* 7_the_chariot.json in Resources */,
 				D0755FDE2CC6071200CAB1D8 /* Preview Assets.xcassets in Resources */,
+				D07560472CC61E6500CAB1D8 /* knight_of_cups.json in Resources */,
+				D075602F2CC61DB200CAB1D8 /* 21_the_world.json in Resources */,
+				D075603F2CC61E2600CAB1D8 /* eight_of_cups.json in Resources */,
+				D075607F2CC61FC000CAB1D8 /* knight_of_wands.json in Resources */,
+				D075608B2CC620A000CAB1D8 /* four_of_pentacles.json in Resources */,
+				D07560372CC61DEB00CAB1D8 /* four_of_cups.json in Resources */,
+				D07560252CC61D6900CAB1D8 /* 16_the_tower.json in Resources */,
+				D075606D2CC61F5100CAB1D8 /* three_of_wands.json in Resources */,
+				D07560052CC6178300CAB1D8 /* 0_the_fool.json in Resources */,
+				D07560832CC61FD500CAB1D8 /* king_of_wands.json in Resources */,
+				D075601F2CC61D3F00CAB1D8 /* 13_death.json in Resources */,
+				D07560972CC620E800CAB1D8 /* ten_of_pentacles.json in Resources */,
+				D075603D2CC61E1700CAB1D8 /* seven_of_cups.json in Resources */,
+				D07560592CC61ED600CAB1D8 /* seven_of_swords.json in Resources */,
+				D07560412CC61E3200CAB1D8 /* nine_of_cups.json in Resources */,
 				D0755FDB2CC6071200CAB1D8 /* Assets.xcassets in Resources */,
+				D075606B2CC61F4400CAB1D8 /* two_of_wands.json in Resources */,
+				D07560632CC61F1200CAB1D8 /* knight_of_swords.json in Resources */,
+				D07560672CC61F2B00CAB1D8 /* king_of_swords.json in Resources */,
+				D075604D2CC61E9300CAB1D8 /* ace_of_swords.json in Resources */,
+				D07560572CC61ECC00CAB1D8 /* six_of_swords.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
