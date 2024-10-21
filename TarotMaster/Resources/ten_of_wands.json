@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+  "name": "權杖10",
+  "element": "變動能量（火）",
+  "number": "10",
+  "keywords": ["挑戰", "負擔", "責任", "壓力"],
+  "description": "權杖10象徵著挑戰和責任的承擔。它代表人們在生活中承擔大量的壓力和負擔，但這些挑戰也能帶來成長的機會。",
+  "interpretation": {
+    "upright": "努力工作，克服困難，承受壓力。",
+    "reversed": "壓力過大，無法承擔，感到筋疲力盡。"
+  }
+}
