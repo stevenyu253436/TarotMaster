@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "高塔",
+    "number": 16,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "突然的改變、破壞、危機、意外事件、災難",
+        "逆位": "避免災難、內在改變、重新評估、緩慢變化"
+    },
+    "description": {
+        "正位": "高塔牌代表著突如其來的改變或動盪，通常伴隨著強烈的破壞或劇變。它預示著舊有的結構或信念將被打破，為全新的事物讓路。儘管這種改變可能令人痛苦，但它最終能幫助我們成長，並推動我們朝著更符合現實的方向前進。",
+        "逆位": "逆位的高塔象徵著對變化的抵抗或避免重大災難的發生。它可能暗示著我們正在內在進行深刻的轉變，而這種改變雖然緩慢，但仍然對我們的生活有著深遠的影響。這是重新評估生活方向和價值觀的機會，幫助我們更好地面對未來的挑戰。"
+    }
+}
