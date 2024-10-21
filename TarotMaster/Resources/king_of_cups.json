@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯國王",
+    "element": "基本能量水",
+    "keywords": {
+        "導向": "國王、領導、情感平衡、師傅、治愈、水平",
+        "關鍵": "慈悲、同理心、控制情緒、成熟",
+        "方位": "西北方、努力平衡內心、安於情感、正午",
+        "屬性": "情感、穩定、包容",
+        "方式": "柔情、信任、治愈力量"
+    },
+    "description": {
+        "正位": "象徵一位成熟的領導者，具有情感控制的能力和深厚的同理心。",
+        "逆位": "代表過度控制或情感壓抑，可能導致情緒失控或不安。"
+    }
+}
