@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣王后",
+    "element": "固定能量土",
+    "keywords": {
+        "象徵": "王后、照顧、仁心、尊貴、公主般富有",
+        "關鍵": "穩定、富有的象徵、豐收、物質世界",
+        "方位": "東北",
+        "屬性": "土 - 富饒、養育、物質享受"
+    },
+    "description": {
+        "正位": "錢幣王后象徵著養育、豐盛、財務穩定和對家庭的愛。她代表物質豐裕、責任感和照顧家人。",
+        "逆位": "逆位可能表示對財務過於關注，忽視了其他生活層面的需要，或是過度依賴物質資源。"
+    }
+}
