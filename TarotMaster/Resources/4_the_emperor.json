@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "皇帝",
+    "number": 4,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "權威、結構、控制、穩定、父親形象",
+        "逆位": "專制、控制過度、缺乏紀律、壓迫、冷酷無情"
+    },
+    "description": {
+        "正位": "皇帝代表著權威與力量的象徵，帶來秩序、穩定和結構的力量。正位的皇帝鼓勵你利用這些特質來建立起自己的領域，管理你的生活，並行使你的意志。這張牌暗示著要在生命的各個方面運用合理的計劃和戰略。",
+        "逆位": "逆位的皇帝可能意味著權力的濫用或過度控制。你可能在生活的某個領域中感到受限或被壓制，難以自由表達自己的意志。這提醒你要小心控制自己的權威，不要過度專橫，否則可能會引起他人的反感或叛逆。"
+    }
+}
