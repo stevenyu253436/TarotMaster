@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "世界",
+    "number": 21,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "完成、統合、達成、圓滿、成就、和諧",
+        "逆位": "未完成、延遲、缺乏進展、停滯、不穩定"
+    },
+    "description": {
+        "正位": "世界象徵著圓滿和統合，是人生旅程中的終點，也是新的開始。它代表著經歷了所有挑戰之後的成功和完成，意味著你已經達到一個重要的里程碑。這張牌表示和諧的狀態，提醒你不僅要慶祝成果，也要準備好迎接新的旅程。",
+        "逆位": "逆位的世界表示一個項目或目標可能還未完全實現，或是有一些未完成的事情阻礙著你的進展。你可能會感覺到停滯不前，或者不穩定的情況影響著你的前進。這張牌提醒你需要重新評估現有的計劃，並努力完成手邊的任務，才能獲得真正的圓滿。"
+    }
+}
