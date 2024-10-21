@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖王牌",
+    "element": "火",
+    "uprightMeaning": "新機會、創意、成長、靈感、潛力、勇氣",
+    "reversedMeaning": "延遲、阻礙、缺乏方向、創造力阻礙、目標不明確",
+    "description": "權杖王牌象徵著初生之火，一種全新的創意、計畫或機會。它代表著對未來的強烈期望，帶來一種追求新事物的熱情和活力。在牌面上，一隻手從雲中伸出，持著一根權杖，象徵著來自天界的啟示。這是一張積極向上的牌，顯示出能量的爆發及潛在的無限可能。",
+    "direction": {
+        "upright": "向上、探索新的可能性、勇於創新",
+        "reversed": "停滯不前、目標模糊、創意受阻"
+    },
+    "themes": [
+        "創造力",
+        "新開始",
+        "成長",
+        "潛力"
+    ]
+}
