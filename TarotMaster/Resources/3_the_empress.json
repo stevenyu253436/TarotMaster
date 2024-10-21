@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "女皇",
+    "number": 3,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "豐饒、孕育、自然之愛、母性、富足",
+        "逆位": "匱乏、創造力阻礙、困惑、過度控制、焦慮"
+    },
+    "description": {
+        "正位": "女皇象徵著大自然的豐饒和孕育之愛。她是一個豐饒的象徵，代表了生活的富足和創造力。這張牌提醒我們要與自然接觸，享受生命中的美好，並培養內在的創造性。",
+        "逆位": "逆位的女皇可能表明缺乏創造力或感到受限。這可能暗示著過度控制或對富足的恐懼，使得你無法享受生活的豐饒和愛的流動。需要放鬆並重新接觸內在的自然本質。"
+    }
+}
