@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖4",
+    "element": "火",
+    "uprightMeaning": "慶祝、團結、穩定、和諧、家園、平衡",
+    "reversedMeaning": "內部衝突、不穩定、計劃受阻、缺乏和諧",
+    "description": "權杖4代表著慶祝和成功，是努力工作後的收穫時刻。現在是放鬆並享受成果的時候，這張牌通常與家庭、朋友或社區的慶祝活動有關，象徵著穩定與平衡。畫面中的人物在一個花環下跳舞，象徵著歡樂和慶祝的氣氛。",
+    "direction": {
+        "upright": "享受成功的喜悅，與他人分享幸福時刻",
+        "reversed": "內部衝突或計劃受阻，需要重新調整策略"
+    },
+    "themes": [
+        "慶祝",
+        "穩定",
+        "家園",
+        "和諧"
+    ]
+}
