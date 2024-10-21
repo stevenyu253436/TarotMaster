@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖侍者",
+    "element": "弱力基本能量火",
+    "keywords": {
+        "導向": "傳遞、學徒、展現、年少、年輕人、信使",
+        "關鍵": "探索、行動、追求、活力、勇氣、成長、信任",
+        "方位": "東方、行動領域、勞動或遊牧地",
+        "屬性": "東火",
+        "方式": "大夢微數、可堪成就、攜手前進、溫馨芬芳"
+    },
+    "description": {
+        "正位": "在旅程的開始，侍者所擁有的『起點感』，火勢蓬勃微數，侍者應是代表勇氣與熱情來自熱烈的心靈火焰，侍者代表火性發展的基礎（性慾、探索、學徒）每步象徵少年的探索及未發展意識感知的冒險故事，其生命特質為探索、行動、追求、信仰。",
+        "逆位": "代表侍者無視不安的情勢、見人來者不善、不安份的衝勁、潛藏可能危險（舉止無法脫離規範），代表行動時間不確定、遭遇拖延或挫敗、愛而不理、不被期待。"
+    }
+}
