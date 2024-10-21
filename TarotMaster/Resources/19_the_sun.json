@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "太陽",
+    "number": 19,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "成功、快樂、光明、積極、正能量、成就",
+        "逆位": "延遲、驕傲、自負、失望、缺乏信心"
+    },
+    "description": {
+        "正位": "太陽象徵著光明與成就，帶來快樂與正能量。它代表著努力後的成功和喜悅，並提醒我們要充滿自信地向前邁進。這張牌暗示著光明的未來和美好的時刻，所有困難都即將被克服，前方一片光明。",
+        "逆位": "逆位的太陽可能表示光明未能完全到來或某些成功受阻，可能因為驕傲或自負而帶來的挑戰。這也可能反映出對未來的懷疑或失望，需要重新檢視自己的信念，並保持積極的態度來突破障礙。"
+    }
+}
