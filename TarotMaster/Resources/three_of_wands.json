@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖3",
+    "element": "火",
+    "uprightMeaning": "探索、擴展視野、遠見、商業、貿易",
+    "reversedMeaning": "延遲、障礙、缺乏計劃、機會錯失",
+    "description": "權杖3代表著對未來的規劃、擴展和探索。圖中的人物站在懸崖上，面向遙遠的地平線，象徵著他在尋找更大的機會和擴展的可能性。這張牌顯示出當前的努力開始有回報的跡象，但同時也需要進一步的行動和計劃。",
+    "direction": {
+        "upright": "探索新的機會，擴展事業或生活的視野",
+        "reversed": "遇到延遲或障礙，需要重新審視計劃"
+    },
+    "themes": [
+        "遠見",
+        "探索",
+        "擴展",
+        "貿易"
+    ]
+}
