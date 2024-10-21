@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "星星",
+    "number": 17,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "希望、靈感、平靜、療癒、信心、啟示",
+        "逆位": "沮喪、絕望、缺乏靈感、懷疑、信仰動搖"
+    },
+    "description": {
+        "正位": "星星牌代表著希望、療癒和啟發。它象徵著內心的平靜和對未來的信心，鼓勵我們相信自己並繼續前進。這張牌通常暗示著充滿靈感的時刻，並提供了更新的力量來克服挑戰。",
+        "逆位": "逆位的星星可能表示失望或缺乏方向感。你可能感覺希望渺茫或靈感枯竭，讓人不確定該如何前行。這是重拾信心並重新檢視目標的時刻，以克服內心的沮喪，重新燃起希望之火。"
+    }
+}
