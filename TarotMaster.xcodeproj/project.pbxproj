@@ -1,0 +1,586 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D0755FD72CC6071000CAB1D8 /* TarotMasterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FD62CC6071000CAB1D8 /* TarotMasterApp.swift */; };
+		D0755FD92CC6071000CAB1D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FD82CC6071000CAB1D8 /* ContentView.swift */; };
+		D0755FDB2CC6071200CAB1D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0755FDA2CC6071200CAB1D8 /* Assets.xcassets */; };
+		D0755FDE2CC6071200CAB1D8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0755FDD2CC6071200CAB1D8 /* Preview Assets.xcassets */; };
+		D0755FE92CC6071200CAB1D8 /* TarotMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FE82CC6071200CAB1D8 /* TarotMasterTests.swift */; };
+		D0755FF32CC6071200CAB1D8 /* TarotMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */; };
+		D0755FF52CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D0755FE52CC6071200CAB1D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D0755FCB2CC6071000CAB1D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D0755FD22CC6071000CAB1D8;
+			remoteInfo = TarotMaster;
+		};
+		D0755FEF2CC6071200CAB1D8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D0755FCB2CC6071000CAB1D8 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D0755FD22CC6071000CAB1D8;
+			remoteInfo = TarotMaster;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D0755FD32CC6071000CAB1D8 /* TarotMaster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TarotMaster.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0755FD62CC6071000CAB1D8 /* TarotMasterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterApp.swift; sourceTree = "<group>"; };
+		D0755FD82CC6071000CAB1D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D0755FDA2CC6071200CAB1D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D0755FDD2CC6071200CAB1D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D0755FDF2CC6071200CAB1D8 /* TarotMaster.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = TarotMaster.entitlements; sourceTree = "<group>"; };
+		D0755FE42CC6071200CAB1D8 /* TarotMasterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TarotMasterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0755FE82CC6071200CAB1D8 /* TarotMasterTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterTests.swift; sourceTree = "<group>"; };
+		D0755FEE2CC6071200CAB1D8 /* TarotMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TarotMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITests.swift; sourceTree = "<group>"; };
+		D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D0755FD02CC6071000CAB1D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FE12CC6071200CAB1D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FEB2CC6071200CAB1D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D0755FCA2CC6071000CAB1D8 = {
+			isa = PBXGroup;
+			children = (
+				D0755FD52CC6071000CAB1D8 /* TarotMaster */,
+				D0755FE72CC6071200CAB1D8 /* TarotMasterTests */,
+				D0755FF12CC6071200CAB1D8 /* TarotMasterUITests */,
+				D0755FD42CC6071000CAB1D8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D0755FD42CC6071000CAB1D8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D0755FD32CC6071000CAB1D8 /* TarotMaster.app */,
+				D0755FE42CC6071200CAB1D8 /* TarotMasterTests.xctest */,
+				D0755FEE2CC6071200CAB1D8 /* TarotMasterUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D0755FD52CC6071000CAB1D8 /* TarotMaster */ = {
+			isa = PBXGroup;
+			children = (
+				D0755FD62CC6071000CAB1D8 /* TarotMasterApp.swift */,
+				D0755FD82CC6071000CAB1D8 /* ContentView.swift */,
+				D0755FDA2CC6071200CAB1D8 /* Assets.xcassets */,
+				D0755FDF2CC6071200CAB1D8 /* TarotMaster.entitlements */,
+				D0755FDC2CC6071200CAB1D8 /* Preview Content */,
+			);
+			path = TarotMaster;
+			sourceTree = "<group>";
+		};
+		D0755FDC2CC6071200CAB1D8 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D0755FDD2CC6071200CAB1D8 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D0755FE72CC6071200CAB1D8 /* TarotMasterTests */ = {
+			isa = PBXGroup;
+			children = (
+				D0755FE82CC6071200CAB1D8 /* TarotMasterTests.swift */,
+			);
+			path = TarotMasterTests;
+			sourceTree = "<group>";
+		};
+		D0755FF12CC6071200CAB1D8 /* TarotMasterUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */,
+				D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */,
+			);
+			path = TarotMasterUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D0755FD22CC6071000CAB1D8 /* TarotMaster */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0755FF82CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMaster" */;
+			buildPhases = (
+				D0755FCF2CC6071000CAB1D8 /* Sources */,
+				D0755FD02CC6071000CAB1D8 /* Frameworks */,
+				D0755FD12CC6071000CAB1D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TarotMaster;
+			productName = TarotMaster;
+			productReference = D0755FD32CC6071000CAB1D8 /* TarotMaster.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D0755FE32CC6071200CAB1D8 /* TarotMasterTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0755FFB2CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMasterTests" */;
+			buildPhases = (
+				D0755FE02CC6071200CAB1D8 /* Sources */,
+				D0755FE12CC6071200CAB1D8 /* Frameworks */,
+				D0755FE22CC6071200CAB1D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D0755FE62CC6071200CAB1D8 /* PBXTargetDependency */,
+			);
+			name = TarotMasterTests;
+			productName = TarotMasterTests;
+			productReference = D0755FE42CC6071200CAB1D8 /* TarotMasterTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D0755FED2CC6071200CAB1D8 /* TarotMasterUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D0755FFE2CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMasterUITests" */;
+			buildPhases = (
+				D0755FEA2CC6071200CAB1D8 /* Sources */,
+				D0755FEB2CC6071200CAB1D8 /* Frameworks */,
+				D0755FEC2CC6071200CAB1D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D0755FF02CC6071200CAB1D8 /* PBXTargetDependency */,
+			);
+			name = TarotMasterUITests;
+			productName = TarotMasterUITests;
+			productReference = D0755FEE2CC6071200CAB1D8 /* TarotMasterUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D0755FCB2CC6071000CAB1D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					D0755FD22CC6071000CAB1D8 = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					D0755FE32CC6071200CAB1D8 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D0755FD22CC6071000CAB1D8;
+					};
+					D0755FED2CC6071200CAB1D8 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = D0755FD22CC6071000CAB1D8;
+					};
+				};
+			};
+			buildConfigurationList = D0755FCE2CC6071000CAB1D8 /* Build configuration list for PBXProject "TarotMaster" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D0755FCA2CC6071000CAB1D8;
+			productRefGroup = D0755FD42CC6071000CAB1D8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D0755FD22CC6071000CAB1D8 /* TarotMaster */,
+				D0755FE32CC6071200CAB1D8 /* TarotMasterTests */,
+				D0755FED2CC6071200CAB1D8 /* TarotMasterUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D0755FD12CC6071000CAB1D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0755FDE2CC6071200CAB1D8 /* Preview Assets.xcassets in Resources */,
+				D0755FDB2CC6071200CAB1D8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FE22CC6071200CAB1D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FEC2CC6071200CAB1D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D0755FCF2CC6071000CAB1D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0755FD92CC6071000CAB1D8 /* ContentView.swift in Sources */,
+				D0755FD72CC6071000CAB1D8 /* TarotMasterApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FE02CC6071200CAB1D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0755FE92CC6071200CAB1D8 /* TarotMasterTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D0755FEA2CC6071200CAB1D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D0755FF32CC6071200CAB1D8 /* TarotMasterUITests.swift in Sources */,
+				D0755FF52CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D0755FE62CC6071200CAB1D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D0755FD22CC6071000CAB1D8 /* TarotMaster */;
+			targetProxy = D0755FE52CC6071200CAB1D8 /* PBXContainerItemProxy */;
+		};
+		D0755FF02CC6071200CAB1D8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D0755FD22CC6071000CAB1D8 /* TarotMaster */;
+			targetProxy = D0755FEF2CC6071200CAB1D8 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D0755FF62CC6071200CAB1D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D0755FF72CC6071200CAB1D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		D0755FF92CC6071200CAB1D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TarotMaster/TarotMaster.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TarotMaster/Preview Content\"";
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMaster;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D0755FFA2CC6071200CAB1D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = TarotMaster/TarotMaster.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"TarotMaster/Preview Content\"";
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMaster;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		D0755FFC2CC6071200CAB1D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMasterTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TarotMaster.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TarotMaster";
+			};
+			name = Debug;
+		};
+		D0755FFD2CC6071200CAB1D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMasterTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TarotMaster.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/TarotMaster";
+			};
+			name = Release;
+		};
+		D0755FFF2CC6071200CAB1D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMasterUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = TarotMaster;
+			};
+			name = Debug;
+		};
+		D07560002CC6071200CAB1D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5YGLWU7828;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = stevenstudio.TarotMasterUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = TarotMaster;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D0755FCE2CC6071000CAB1D8 /* Build configuration list for PBXProject "TarotMaster" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0755FF62CC6071200CAB1D8 /* Debug */,
+				D0755FF72CC6071200CAB1D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0755FF82CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMaster" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0755FF92CC6071200CAB1D8 /* Debug */,
+				D0755FFA2CC6071200CAB1D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0755FFB2CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMasterTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0755FFC2CC6071200CAB1D8 /* Debug */,
+				D0755FFD2CC6071200CAB1D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D0755FFE2CC6071200CAB1D8 /* Build configuration list for PBXNativeTarget "TarotMasterUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0755FFF2CC6071200CAB1D8 /* Debug */,
+				D07560002CC6071200CAB1D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D0755FCB2CC6071000CAB1D8 /* Project object */;
+}
