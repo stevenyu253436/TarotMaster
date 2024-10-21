@@ -1,6 +1,13 @@
 {
-    "name": "The Fool",
-    "uprightMeaning": "Represents new beginnings, having faith in the future, being inexperienced.",
-    "reversedMeaning": "Foolishness, carelessness, lack of planning.",
-    "description": "The Fool represents a new journey or the beginning of something significant in one's life."
+    "name": "愚人",
+    "number": 0,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "冒險、天真、純真、新開始",
+        "逆位": "愚昧、魯莽、猶豫不決"
+    },
+    "description": {
+        "正位": "愚人象徵著新的旅程和冒險，代表著無畏和自由的精神。他總是充滿好奇心，對未來充滿信心，願意探索未知的世界。",
+        "逆位": "逆位的愚人可能暗示不成熟或衝動的行為，忽略現實的風險，導致魯莽的決定和不明智的行動。"
+    }
 }
