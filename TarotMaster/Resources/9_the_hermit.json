@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "隱士",
+    "number": 9,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "內省、靈性尋求、智慧、孤獨、自我反省",
+        "逆位": "孤立、逃避、閉塞、自我忽視、失去指導"
+    },
+    "description": {
+        "正位": "隱士牌代表內省和靈性追求，象徵深入自己的心靈進行反思與學習。這張牌提醒你需要抽離世俗，追求內心的真理與智慧，甚至可能需要一段獨處的時間。隱士也象徵著人生旅途中尋求指導者的角色，或許是尋找靈性導師來幫助你領悟真理。",
+        "逆位": "逆位的隱士可能表示過度孤立或逃避現實。你可能過於專注於自我內省，而忽視了外在世界的重要性。這張牌提醒你重新與他人聯繫，避免陷入孤立無援的狀態。如果你感到迷失或缺乏方向，這張牌建議你尋求外在的協助或指導來引導你走出困境。"
+    }
+}
