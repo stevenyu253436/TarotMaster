@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖6",
+    "element": "火",
+    "uprightMeaning": "勝利、認可、成就、榮譽、名聲",
+    "reversedMeaning": "自負、失敗、挫折、誤解",
+    "description": "權杖6象徵著勝利與成就，顯示一個人在經歷挑戰後取得了勝利並受到了讚賞和認可。畫面中的人物騎在馬上，高舉著權杖，象徵著公眾的喝采與榮譽。這張牌提醒人們要善用自己的成功來推進下一步的目標，同時不要因為成功而變得自滿。",
+    "direction": {
+        "upright": "享受你的成就並與他人分享這份喜悅，繼續朝著下一個目標邁進",
+        "reversed": "謙虛對待成功，避免過度自信可能帶來的失敗"
+    },
+    "themes": [
+        "勝利",
+        "成就",
+        "認可",
+        "榮譽"
+    ]
+}
