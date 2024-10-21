@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣5",
+    "element": "變動能量土",
+    "keywords": {
+        "數字": "5 - 本質為二元的交互性質、混亂與變化、過渡期以及門戶、掌權",
+        "關鍵": "困難、貧困、缺乏資源、孤獨、缺乏、挫折",
+        "方位": "東南",
+        "屬性": "喚醒、變革、缺乏、轉變、貧乏"
+    },
+    "description": {
+        "正位": "這張牌暗示著艱難的時期、匱乏的資源、孤立的狀態以及身心的疲憊，建議需要找到支持或重新評估目前的情況。",
+        "逆位": "可能意味著正在擺脫困境，逐漸獲得支援或看到曙光，提醒保持耐心，並努力前行。"
+    }
+}
