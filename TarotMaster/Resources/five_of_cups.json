@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯5",
+    "element": "變動能量水",
+    "keywords": {
+        "導向": "5、情感的反覆和變化、絕望、喪失、哀傷",
+        "關鍵": "拒絕改變、哀悼、失敗、痛苦",
+        "方位": "東南、悲傷、哀悼、空虛",
+        "屬性": "悲觀情緒",
+        "方式": "經歷失落、反思情感"
+    },
+    "description": {
+        "正位": "代表失落或喪失情感上的重要事物，陷入情緒的低谷，可能難以面對現實。",
+        "逆位": "代表從悲傷中重新振作，開始尋找新的希望和解決方案，逐漸走出情感困境。"
+    }
+}
