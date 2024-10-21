@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯侍者",
+    "element": "弱力基本能量水",
+    "keywords": {
+        "導向": "傳令、學生、追求者、年輕人、傾聽",
+        "關鍵": "創造力、愛情與靈感、新的承諾",
+        "方位": "北方、直覺、自我內省、藝術表現",
+        "屬性": "感情的萌芽、靈性啟發",
+        "方式": "真誠的溝通、愛的表達"
+    },
+    "description": {
+        "正位": "象徵著新情感或創意的萌芽，充滿真摯的情感與靈感，適合開始新的計畫或愛情關係。",
+        "逆位": "可能代表情感上的不成熟或容易逃避現實，提醒需要更加真誠地面對內心的需求。"
+    }
+}
