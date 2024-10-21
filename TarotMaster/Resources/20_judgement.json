@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "審判",
+    "number": 20,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "覺醒、重生、救贖、清算、復興、裁決",
+        "逆位": "猶豫不決、自我懷疑、拒絕轉變、逃避現實"
+    },
+    "description": {
+        "正位": "審判象徵著重生和復興，提醒我們反思過去的行為並從中學習。它帶來了新的開始和覺醒的時刻，讓我們能夠擺脫過去的束縛，邁向更高的境界。這張牌表示一個重大轉變的到來，要求我們準備好面對新的挑戰，並迎接重生的機會。",
+        "逆位": "逆位的審判可能意味著對改變的恐懼或拒絕接受新的現實，這可能導致自我懷疑或停滯不前的狀態。你可能會猶豫不決，對未來的道路感到困惑，或者逃避需要面對的問題。這張牌提醒我們，逃避並不能解決問題，只有勇敢地迎接挑戰才能獲得真正的救贖。"
+    }
+}
