@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯王牌",
+    "element": "基本能量水",
+    "keywords": {
+        "導向": "王權、創造、愛情、靈性、喜悅與悲傷、感恩、職業",
+        "關鍵": "情感、新起點、靈感、在情感中的深刻體會（愛與包容）",
+        "方位": "東南、情緒、信仰、理解、平衡",
+        "屬性": "愛的開端",
+        "方式": "情感、心靈溝通、感知、接納、祈求或慶祝"
+    },
+    "description": {
+        "正位": "聖杯王牌代表情感的開始、新的愛情、情感豐盈以及精神層面的提升。這是一個愛與感恩的象徵，表示著豐沛的情感正在湧現。",
+        "逆位": "情感過度或壓抑，可能缺乏對自己或他人的同情心。需要關注情緒平衡，避免情感失控。"
+    }
+}
