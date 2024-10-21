@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣7",
+    "element": "變動能量土",
+    "keywords": {
+        "數字": "7 - 質疑、焦慮、重估、暫停和成果",
+        "關鍵": "等待、焦慮、預測未來可能發展、成就的檢視",
+        "方位": "西南",
+        "屬性": "生命力、努力的準備、穩健發展、檢驗進程的成長"
+    },
+    "description": {
+        "正位": "正位的錢幣7代表著在工作或生活中經歷成長的階段，需要耐心等待成果。它提醒要在這段等待的時間中重新評估現有的策略或方向。",
+        "逆位": "逆位的錢幣7可能表示對目前的努力感到厭倦或不滿足，建議重新調整計劃，確保自己的方向與目標一致。"
+    }
+}
