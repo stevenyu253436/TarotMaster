@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "權杖5",
+    "element": "火",
+    "uprightMeaning": "競爭、衝突、挑戰、爭論、不和諧",
+    "reversedMeaning": "化解衝突、避免挑釁、尋求妥協、調和",
+    "description": "權杖5代表著衝突和競爭，顯示出當前的局勢可能充滿摩擦和挑戰。畫面中的五個人似乎在用權杖互相揮舞，象徵著爭執或混亂。這張牌提醒人們，雖然競爭可以帶來動力，但如果不加以控制，可能會造成不必要的困擾。",
+    "direction": {
+        "upright": "接受挑戰，與他人競爭以爭取進步",
+        "reversed": "尋求解決衝突的辦法，避免不必要的爭端"
+    },
+    "themes": [
+        "挑戰",
+        "競爭",
+        "衝突",
+        "爭論"
+    ]
+}
