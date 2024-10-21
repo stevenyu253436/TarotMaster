@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯3",
+    "element": "變動能量水",
+    "keywords": {
+        "導向": "三、多人組成的聯繫或關愛、合作的能力、正向的情緒、喜悅",
+        "關鍵": "群體的分享、歡慶、支持、愉悅",
+        "方位": "東、西、相輔相成、維持一段平衡狀態",
+        "屬性": "情感的滿足",
+        "方式": "交流、分享、團體成員間的友誼或感情"
+    },
+    "description": {
+        "正位": "代表社交的場合、團聚、友誼的慶祝與分享，正是享受成果與喜悅的時刻。",
+        "逆位": "代表過度放縱、情感的混亂，可能存在不必要的爭端或誤解，需要保持謹慎。"
+    }
+}
