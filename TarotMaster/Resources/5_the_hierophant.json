@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "教皇",
+    "number": 5,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "傳統、宗教、靈性智慧、信仰、社會規範",
+        "逆位": "反叛、挑戰傳統、個人信念、限制、無法妥協"
+    },
+    "description": {
+        "正位": "教皇代表著傳統、宗教和靈性智慧的象徵，他帶來了對於信仰和社會規範的遵循。這張牌暗示著需要遵從某些指導原則或傳統，以獲得精神上的支持和指引。這可能意味著尋求有經驗的導師或長者的建議，以幫助你做出正確的決定。",
+        "逆位": "逆位的教皇可能意味著反抗傳統或挑戰既有的社會規範。你可能覺得目前的制度或信仰對你來說太過僵化，無法帶給你所需的自由。這提醒你要勇於追求自己的道路，並且質疑那些限制你的信仰或規範。"
+    }
+}
