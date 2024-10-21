@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "月亮",
+    "number": 18,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "潛意識、幻覺、直覺、不安、迷茫、夢想",
+        "逆位": "恐懼、困惑、欺騙、錯誤的判斷、焦慮"
+    },
+    "description": {
+        "正位": "月亮象徵著內心深處的潛意識世界，帶來迷茫和不安的感受。它可能暗示著潛藏的恐懼或幻覺，提醒我們要依靠直覺來穿越迷霧，尋求真相。這張牌也鼓勵我們探索潛意識中的影響力，並面對未知的情況。",
+        "逆位": "逆位的月亮可能表示恐懼或混亂已被放大，導致判斷出現錯誤或誤解。這時需要冷靜分析和清晰思考，以解決困惑並恢復對現實的把握。重視真相，避免被虛幻的景象所迷惑。"
+    }
+}
