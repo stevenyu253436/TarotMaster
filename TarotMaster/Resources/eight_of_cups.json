@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯8",
+    "element": "變動能量水",
+    "keywords": {
+        "導向": "8、逃避困難、改變的需求",
+        "關鍵": "放棄、結束或逃避某種情況",
+        "方位": "東北方、失望與放棄的情緒",
+        "屬性": "希望和放手、追尋更深的意義",
+        "方式": "轉變、捨棄不再需要的事物"
+    },
+    "description": {
+        "正位": "象徵著逃避或放棄某種情境，追尋更深層次的滿足感或意義，表示情感的釋放和結束。",
+        "逆位": "意味著難以放下或逃離，提醒不要拖延決策，應勇敢面對改變。"
+    }
+}
