@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣侍者",
+    "element": "弱力基本能量土",
+    "keywords": {
+        "象徵": "侍者、學生、助手、年輕人、信使",
+        "關鍵": "務實、靜態的追求、專注、勤勞、能夠控制資源",
+        "方位": "東北",
+        "屬性": "土 - 長期的積累、耐心、物質的追求、儀式"
+    },
+    "description": {
+        "正位": "錢幣侍者代表開始計劃並致力於實現的過程，通常是與物質世界相關的目標或學業上的追求。",
+        "逆位": "逆位表示缺乏規劃或執行力，或者專注於不切實際的事情。可能意味著過於專注於細節而忽略了整體目標。"
+    }
+}
