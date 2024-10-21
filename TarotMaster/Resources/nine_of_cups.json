@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯9",
+    "element": "變動能量水",
+    "keywords": {
+        "導向": "9、希望實現與圓滿的感受",
+        "關鍵": "滿足與愉悅、心願達成",
+        "方位": "東方、個人成就、小型或局部的圓滿",
+        "屬性": "快樂和安逸、實現的希望",
+        "方式": "完成、心靈上的滿足"
+    },
+    "description": {
+        "正位": "代表許多已經實現的心願和滿足感，象徵快樂、成就和豐盈的生活。",
+        "逆位": "提醒不要過於自滿，應繼續追求更高的目標，避免忽視潛在的挑戰。"
+    }
+}
