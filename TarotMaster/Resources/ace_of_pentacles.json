@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣王牌",
+    "element": "基本能量土",
+    "keywords": {
+        "身份": "王權（皇上貴族）、權威、經營、財富能力、專家",
+        "關鍵": "富裕、增長、建立基礎、財務穩定",
+        "方位": "南方",
+        "屬性": "增強的力量、穩定性、堅韌"
+    },
+    "description": {
+        "正位": "象徵新的財富或商機的開始，或是一種物質上的豐收，意味著實質性的成功或重要的投資回報。",
+        "逆位": "可能出現財務上的挑戰或投資的風險，需要謹慎處理，避免貪婪或錯誤的判斷。"
+    }
+}
