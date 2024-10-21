@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "寶劍5",
+    "element": "基本能量風",
+    "keywords": {
+        "導向": "混亂與矛盾、爭執、試探極限",
+        "關鍵": "重新評估和找回自信，重新定義界限",
+        "方位": "西北，為達到目的不擇手段",
+        "屬性": "競爭、激烈的對抗、策略和戰術"
+    },
+    "description": {
+        "正位": "象徵混亂和對抗，代表試圖獲勝的努力，可能會影響他人的情緒和行動。",
+        "逆位": "代表衝突的減弱，可能尋求和解或彌補因爭鬥造成的損失，重新調整策略。"
+    }
+}
