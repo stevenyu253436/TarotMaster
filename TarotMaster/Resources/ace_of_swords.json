@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "寶劍王牌",
+    "element": "基本能量風",
+    "keywords": {
+        "導向": "王權、真理、無人可及、正義、勝利、洞察力與決策權",
+        "關鍵": "理性、克服困難、誠實、公正",
+        "方位": "東北方、面對問題、冷靜思考、目的為先",
+        "屬性": "清晰、不可阻擋",
+        "方式": "直接的溝通、策略與解決問題"
+    },
+    "description": {
+        "正位": "象徵克服障礙與面對問題，清晰地做出決策，充滿智慧與力量。",
+        "逆位": "暗示混亂或困難，可能有過於衝動或偏激的情況發生。"
+    }
+}
