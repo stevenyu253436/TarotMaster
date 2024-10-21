@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "吊人",
+    "number": 12,
+    "arcana": "大秘儀",
+    "keywords": {
+        "正位": "犧牲、放下、觀點轉換、放慢腳步、等待",
+        "逆位": "拖延、缺乏進展、逃避、無法放手"
+    },
+    "description": {
+        "正位": "吊人象徵著需要放下或犧牲，以獲得全新的視角或更深的理解。這張牌提醒你可能需要改變看待問題的方式，或者接受當前情況的停滯，學習從另一個角度來看待挑戰。它也可能表示在等待中找到平靜與啟示。",
+        "逆位": "逆位的吊人暗示著拖延或缺乏進展，可能因害怕改變而無法放手。這張牌提醒你可能正在逃避面對困難或改變的必要性，或者被困在一種停滯的狀態中。建議你重新審視你所堅持的事情，並試著讓自己釋放束縛。"
+    }
+}
