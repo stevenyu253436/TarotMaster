@@ -14,6 +14,7 @@
 		D0755FE92CC6071200CAB1D8 /* TarotMasterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FE82CC6071200CAB1D8 /* TarotMasterTests.swift */; };
 		D0755FF32CC6071200CAB1D8 /* TarotMasterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */; };
 		D0755FF52CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */; };
+		D07560032CC611E400CAB1D8 /* TarotCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D07560022CC611E400CAB1D8 /* TarotCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		D0755FEE2CC6071200CAB1D8 /* TarotMasterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TarotMasterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0755FF22CC6071200CAB1D8 /* TarotMasterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITests.swift; sourceTree = "<group>"; };
 		D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotMasterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D07560022CC611E400CAB1D8 /* TarotCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarotCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,11 +97,13 @@
 		D0755FD52CC6071000CAB1D8 /* TarotMaster */ = {
 			isa = PBXGroup;
 			children = (
+				D07560012CC6094E00CAB1D8 /* Resources */,
 				D0755FD62CC6071000CAB1D8 /* TarotMasterApp.swift */,
 				D0755FD82CC6071000CAB1D8 /* ContentView.swift */,
 				D0755FDA2CC6071200CAB1D8 /* Assets.xcassets */,
 				D0755FDF2CC6071200CAB1D8 /* TarotMaster.entitlements */,
 				D0755FDC2CC6071200CAB1D8 /* Preview Content */,
+				D07560022CC611E400CAB1D8 /* TarotCard.swift */,
 			);
 			path = TarotMaster;
 			sourceTree = "<group>";
@@ -127,6 +131,13 @@
 				D0755FF42CC6071200CAB1D8 /* TarotMasterUITestsLaunchTests.swift */,
 			);
 			path = TarotMasterUITests;
+			sourceTree = "<group>";
+		};
+		D07560012CC6094E00CAB1D8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,6 +272,7 @@
 			files = (
 				D0755FD92CC6071000CAB1D8 /* ContentView.swift in Sources */,
 				D0755FD72CC6071000CAB1D8 /* TarotMasterApp.swift in Sources */,
+				D07560032CC611E400CAB1D8 /* TarotCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
