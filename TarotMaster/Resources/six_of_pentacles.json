@@ -1,11 +1,14 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣6",
+    "element": "基本能量土",
+    "keywords": {
+        "數字": "6 - 幫助、平衡、付出與接受、公共服務、責任",
+        "關鍵": "慈善、財務支援、善行、公平分配、和諧",
+        "方位": "東南",
+        "屬性": "大愛與幫助、均勻的能量流動、慷慨與施捨的意圖"
+    },
+    "description": {
+        "正位": "這張牌象徵幫助他人、付出善行，提醒要在支持別人時也保持自身的平衡，確保不過度付出而損及自己的需求。",
+        "逆位": "逆位的錢幣6可能表示接受幫助時感到不自在，或有濫用善行之嫌，提醒在提供幫助或接受支援時保持清楚的界限。"
+    }
+}
