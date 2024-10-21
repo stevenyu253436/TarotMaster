@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "錢幣10",
+    "element": "基本能量土",
+    "keywords": {
+        "數字": "10 - 超越現狀、完成階段、豐富、神秘的土地和地產、穩定",
+        "關鍵": "傳統、家族的連結、家庭遺產、團體、長期計劃",
+        "方位": "東北",
+        "屬性": "靜態、世俗的累積、經濟資源、遺產、金錢富裕",
+        "元素": "土 - 穩定、積蓄、自然的累積、遺產的傳承、公眾貢獻"
+    },
+    "description": {
+        "正位": "錢幣10正位象徵著家庭的穩定、傳承和財富的累積，代表長期成功和世代之間的連結。這是財富與穩定的象徵。",
+        "逆位": "錢幣10逆位可能表示對財務狀況的過度依賴，或者在物質層面過於固執，忽略了生活中其他更重要的事物。"
+    }
+}
