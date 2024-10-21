@@ -1,11 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.Cocoa.XIB" version="3.0" toolsVersion="11134" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" customObjectInstantitationMethod="direct">
-    <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="11134"/>
-    </dependencies>
-    <objects>
-        <customObject id="-2" userLabel="File's Owner"/>
-        <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <customObject id="-3" userLabel="Application" customClass="NSObject"/>
-    </objects>
-</document>
+{
+    "name": "聖杯4",
+    "element": "原初固定能量水",
+    "keywords": {
+        "導向": "4、固執、情緒壓抑、抗拒、遲疑、審慎",
+        "關鍵": "抗拒接受新的挑戰、選擇、沉默不語",
+        "方位": "東南、沉思、停滯、思考",
+        "屬性": "情緒的低落",
+        "方式": "接受、壓抑、黑暗旅行"
+    },
+    "description": {
+        "正位": "代表情緒壓抑或情感的退縮，對現實缺乏熱情，可能陷入沉思而錯失機會。",
+        "逆位": "代表從情緒低落的狀態中甦醒，重新看見機會，開始迎接新的挑戰。"
+    }
+}
